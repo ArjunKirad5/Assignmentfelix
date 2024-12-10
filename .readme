@@ -1,0 +1,12 @@
+ How to comment HTML tags?
+=>by using <!–  –> tag.
+
+2How to create a hyperlink?
+=> using anchor tag, for ex: <a href="*link*"></a>
+
+
+3How to author an abbreviation or an acronym?
+=>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.
+
+9How to write bold text using HTML tags?
+=>Using <b> tag
